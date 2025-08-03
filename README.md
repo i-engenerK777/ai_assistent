@@ -2,8 +2,6 @@
 
 Скриншоты моего телеграмм - бота <img width="1156" height="1024" alt="image" src="https://github.com/user-attachments/assets/d290c362-af9a-408c-9fdb-15e01460c466" />
 
-
-
 Ссылка на проект - @KonsultantpoPP_bot
 
 ## Описание проекта
