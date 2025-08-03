@@ -1,6 +1,8 @@
 # ИИ - консультант по правильному питанию
 
 Скриншоты моего телеграмм - бота <img width="1156" height="1024" alt="image" src="https://github.com/user-attachments/assets/d290c362-af9a-408c-9fdb-15e01460c466" />
+<img width="1137" height="1019" alt="image" src="https://github.com/user-attachments/assets/47d98677-cef3-4113-a034-4a65e76b846e" />
+<img width="1142" height="1020" alt="image" src="https://github.com/user-attachments/assets/213f7542-2fbc-4578-b440-1014d471d40b" />
 
 Ссылка на проект - @KonsultantpoPP_bot
 
