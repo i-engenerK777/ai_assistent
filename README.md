@@ -1,5 +1,8 @@
 # ИИ - консультант по правильному питанию
 
+Скриншоты моего телеграмм - бота <"https://github.com/user-attachments/assets/cd9e12fa-151e-47e1-bf05-b157ac9dd556" />
+
+
 Ссылка на проект - @KonsultantpoPP_bot
 
 ## Описание проекта
